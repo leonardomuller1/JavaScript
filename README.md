@@ -5,4 +5,5 @@ curso feito na plataforma da origamid
 https://origamid.github.io/animais-fantasticos/
 
 <h1>Dias de estudo</h1>
-dia 01/04, (v.01.) Aprendi funções, if/else, var.
+dia 01/04 -Funções, if/else, var. </br>
+dia 02/04 -Objeto,loops,array,let,const. </br>
