@@ -9,3 +9,4 @@ dia 01/04 -Funções, if/else, var. </br>
 dia 02/04 -Objeto,loops,array,let,const. </br>
 dia 03/04 -aprendi o conceito de DOM. </br>
 dia 04/04 -seletores do DOM. </br>
+dia 05/04 - Foreach e arrow function.</br>
