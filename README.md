@@ -11,4 +11,4 @@ dia 03/04 - Conceito de DOM. </br>
 dia 04/04 - Seletores do DOM. </br>
 dia 05/04 - Foreach e arrow function.</br>
 dia 06/04 - Class e atributos.</br>
-dia 07/04 - getBoundingClientRect e matchMedia.</br>
+dia 07/04 - Eventos(addEventListener)</br>
