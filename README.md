@@ -16,5 +16,6 @@ dia 08/04 - Eventos(addEventListener).</br>
 dia 09/04 - Transversing.</br>
 dia 10/04 - Pequenas animações no site, mas um grande um progesso.</br>
 dia 11/04 - Scroll suave.</br>
-dia 11/04 - Constructor Funcion.</br>
+dia 12/04 - Constructor Funcion.</br>
+dia 12/04 - Prototype.</br>
 
