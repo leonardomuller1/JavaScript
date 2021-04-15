@@ -1,18 +1,5 @@
-  <style>
-        h1{
-            color: blue;
-            margin: 0 auto;
-        }
-    </style>
-
-# JavaScript
-curso feito na plataforma da origamid
-
-<h1>Projeto do Curso</h1>
-https://origamid.github.io/animais-fantasticos/
-
-<h1 >Resumo</h1>
 <h2> VARIAVEIS </h2>
+
 var nome = "Leonardo";
 let idade = 16;
 const possuiFalcudade = false;
@@ -21,7 +8,8 @@ const possuiFalcudade = false;
 var Frutas = ['Banana', 'Maçã', 'Pera', 'Uva', 'Melância']
 
 <h2> OBJETO </h2>
-var quadrado = {
+
+var quadrado = { <br>
     lados: 4,
     area(lado){
         return lado * lado;
@@ -32,6 +20,7 @@ var quadrado = {
 }
 
 <h2> OPERADORES </h2>
+
 var soma = 100 + 50; // 150
 var subtracao = 100 - 50; // 50
 var multiplicacao = 100 * 2; // 200
@@ -41,15 +30,18 @@ var modulo = 14 % 5; // 4
 
 
 <h2> TERNARIO</h2>
+
 var idade = 20;
 var podeVotar;
 podeVotar = idade>= 18 ? "pode votar" : "não pode votar";
 
 <h2> BOOLEAN</h2>
+
 var condicional2 = (5-5) || (5+5) && (10-2);
 console.log(condicional2);
 
 <h2>IF/ELSE</h2>
+
 if(possuiGraduacao){
     console.log("é verdadeiro!")
 } else if(possuiDoutorado){
@@ -59,6 +51,7 @@ if(possuiGraduacao){
 } 
 
 <h2> SWITCH</h2>
+
 switch(corFavorita){
     case "Azul":
         console.log('Olhe para o céu');
@@ -75,6 +68,7 @@ switch(corFavorita){
 
 
 <h2> FUNÇÕES</h2>
+
 function terceiraIdade(idade) {
     console.log(typeof idade);
     if (typeof idade !== "number") {
@@ -88,11 +82,9 @@ function terceiraIdade(idade) {
 
 
 <h2> ARROW FUNCIOTION</h2>
-
 const imgs = document.querySelectorAll('img');
 
 <h2> LOOPS</h2>
-
 for( var fruta = 0; fruta < Frutas.length; fruta++){
     console.log(Frutas[fruta])
     if(Frutas[fruta]=== "Pera"){

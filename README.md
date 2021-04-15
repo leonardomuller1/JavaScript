@@ -4,6 +4,9 @@ curso feito na plataforma da origamid
 <h1>Projeto do Curso</h1>
 https://origamid.github.io/animais-fantasticos/
 
+
+<h1>Resumos</h1>
+<p>https://www.notion.so/Javascript-f981193b096747c8a6bd98dc514fa56f</p>
 <h1>Dias de estudo</h1>
 dia 01/04 - Funções, if/else, var. </br>
 dia 02/04 - Objeto,loops,array,let,const. </br>
@@ -19,4 +22,5 @@ dia 11/04 - Scroll suave.</br>
 dia 12/04 - Constructor Funcion.</br>
 dia 13/04 - Prototype.</br>
 dia 14/04 - Native, host, user e Strings</br>
+dia 15/04 - Number e Math</br>
 
