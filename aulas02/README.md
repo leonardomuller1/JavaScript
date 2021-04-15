@@ -5,15 +5,15 @@ curso feito na plataforma da origamid
 https://origamid.github.io/animais-fantasticos/
 
 <h1 >Resumo</h1>
-// VARIAVEIS
+<h2> VARIAVEIS </h2>
 var nome = "Leonardo";
 let idade = 16;
 const possuiFalcudade = false;
 
-// ARRAY
+<h2> ARRAY </h2>
 var Frutas = ['Banana', 'Maçã', 'Pera', 'Uva', 'Melância']
 
-// OBJETO
+<h2> OBJETO </h2>
 var quadrado = {
     lados: 4,
     area(lado){
@@ -24,7 +24,7 @@ var quadrado = {
     },
 }
 
-// OPERADORES
+<h2> OPERADORES </h2>
 var soma = 100 + 50; // 150
 var subtracao = 100 - 50; // 50
 var multiplicacao = 100 * 2; // 200
@@ -33,16 +33,16 @@ var expoente = 2 ** 4; // 16
 var modulo = 14 % 5; // 4
 
 
-// TERNARIO
+<h2> TERNARIO</h2>
 var idade = 20;
 var podeVotar;
 podeVotar = idade>= 18 ? "pode votar" : "não pode votar";
 
-// BOOLEAN
+<h2> BOOLEAN</h2>
 var condicional2 = (5-5) || (5+5) && (10-2);
 console.log(condicional2);
 
-//IF/ELSE
+<h2>IF/ELSE</h2>
 if(possuiGraduacao){
     console.log("é verdadeiro!")
 } else if(possuiDoutorado){
@@ -51,7 +51,7 @@ if(possuiGraduacao){
     console.log("Não possui nada")
 } 
 
-// SWITCH
+<h2> SWITCH</h2>
 switch(corFavorita){
     case "Azul":
         console.log('Olhe para o céu');
@@ -67,7 +67,7 @@ switch(corFavorita){
 }
 
 
-// FUNÇÕES
+<h2> FUNÇÕES</h2>
 function terceiraIdade(idade) {
     console.log(typeof idade);
     if (typeof idade !== "number") {
@@ -80,11 +80,11 @@ function terceiraIdade(idade) {
 }
 
 
-// ARROW FUNCIOTION
+<h2> ARROW FUNCIOTION</h2>
 
 const imgs = document.querySelectorAll('img');
 
-// LOOPS
+<h2> LOOPS</h2>
 
 for( var fruta = 0; fruta < Frutas.length; fruta++){
     console.log(Frutas[fruta])
