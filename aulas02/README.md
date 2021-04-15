@@ -1,3 +1,10 @@
+  <style>
+        h1{
+            color: blue;
+            margin: 0 auto;
+        }
+    </style>
+
 # JavaScript
 curso feito na plataforma da origamid
 
