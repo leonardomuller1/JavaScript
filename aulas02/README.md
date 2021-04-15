@@ -5,4 +5,4 @@ curso feito na plataforma da origamid
 https://origamid.github.io/animais-fantasticos/
 
 <h1>Resumo</h1>
-(https://user-images.githubusercontent.com/81366887/114927313-b430f880-9e07-11eb-9e9f-53f5f5a0622f.png)
+![alt text](https://i.ibb.co/KbZg8xd/aulas02.png)
