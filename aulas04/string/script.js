@@ -93,7 +93,7 @@ const transacoes = [
   {
     descricao: 'Recebimento de Taxa Cliente',
     valor: 'R$ 49',
-  },
+},
 ];
 
 let taxaTotal = 0
