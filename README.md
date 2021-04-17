@@ -23,4 +23,5 @@ dia 12/04 - Constructor Funcion.</br>
 dia 13/04 - Prototype.</br>
 dia 14/04 - Native, host, user e Strings.</br>
 dia 15/04 - Number,Math e Arrays.</br>
+dia 15/04 - Interações com arrays, (.filter),(.map)(.some)(.reduce)</br>
 
