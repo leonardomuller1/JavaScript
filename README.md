@@ -27,4 +27,5 @@ dia 16/04 - Interações com arrays, (.filter),(.map)(.some)(.reduce)</br>
 dia 17/04 - Interações com functions, (.call),(.bind)</br>
 dia 18/04 - Object (.isPrototypeOf),(.freeze),(.getPrototypeOf),(.getOwnPropertyNames)</br>
 dia 19/04 - Modules e dataset </br>
+dia 20/04 - Primeiro modal </br>
 
