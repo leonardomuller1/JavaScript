@@ -28,4 +28,5 @@ dia 17/04 - Interações com functions, (.call),(.bind)</br>
 dia 18/04 - Object (.isPrototypeOf),(.freeze),(.getPrototypeOf),(.getOwnPropertyNames)</br>
 dia 19/04 - Modules e dataset </br>
 dia 20/04 - Primeiro modal </br>
+dia 20/04 -timer, dropdown-menu, tooltip</br>
 
