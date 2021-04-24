@@ -29,5 +29,6 @@ dia 18/04 - Object (.isPrototypeOf),(.freeze),(.getPrototypeOf),(.getOwnProperty
 dia 19/04 - Modules e dataset </br>
 dia 20/04 - Primeiro modal </br>
 dia 21/04 - timer, dropdown-menu, tooltip</br>
-dia 22/04 -menu-mobile</br>
+dia 22/04 - menu-mobile</br>
+dia 23/04 - animação de números</br>
 
