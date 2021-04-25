@@ -31,4 +31,5 @@ dia 20/04 - Primeiro modal </br>
 dia 21/04 - timer, dropdown-menu, tooltip</br>
 dia 22/04 - menu-mobile</br>
 dia 23/04 - animação de números</br>
+dia 24/04 - Forms e Dates</br>
 
