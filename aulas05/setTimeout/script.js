@@ -64,3 +64,8 @@ function resetarTempo() {
     tempo.innerHTML = 0;
     i = 0 
 }
+
+<a class='sora-cart-payment' href='/p/checkout.html'><i class='fa fa-credit-card'/>Confira</a>
+
+const confira = document.querySelector('.sora-cart-payment');
+

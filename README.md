@@ -33,5 +33,6 @@ dia 22/04 - menu-mobile</br>
 dia 23/04 - animação de números</br>
 dia 24/04 - Forms e Dates</br>
 dia 25/04 - Projeto usando forms- https://projeto-mod-5.netlify.app/</br>
+dia 26/04 - Apis,fetch,promise</br>
 
 
