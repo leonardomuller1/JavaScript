@@ -35,5 +35,6 @@ dia 24/04 - Forms e Dates</br>
 dia 25/04 - Projeto usando forms- https://projeto-mod-5.netlify.app/</br>
 dia 26/04 - fetch,promise</br>
 dia 26/04 - JSON,api,http</br>
+dia 26/04 - history api, async e await</br>
 
 
