@@ -8,6 +8,7 @@ https://origamid.github.io/animais-fantasticos/
 <h1>Resumos</h1>
 <p>https://www.notion.so/Javascript-f981193b096747c8a6bd98dc514fa56f</p>
 <h1>Dias de estudo</h1>
+
 dia 01/04 - Funções, if/else, var. </br>
 dia 02/04 - Objeto,loops,array,let,const. </br>
 dia 03/04 - Conceito de DOM. </br>
@@ -37,5 +38,6 @@ dia 26/04 - fetch,promise</br>
 dia 27/04 - JSON,api,http</br>
 dia 28/04 - history api, async e await</br>
 dia 29/04 - class,extends,get/set</br>
+dia 29/04 - ..., arguments,clojures,debugging,rest,spread</br>
 
 
