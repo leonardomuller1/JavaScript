@@ -38,6 +38,7 @@ dia 26/04 - fetch,promise</br>
 dia 27/04 - JSON,api,http</br>
 dia 28/04 - history api, async e await</br>
 dia 29/04 - class,extends,get/set</br>
-dia 29/04 - ..., arguments,clojures,debugging,rest,spread</br>
+dia 30/04 - ..., arguments,clojures,debugging,rest,spread</br>
+dia 01/05 - regexp</br>
 
 
