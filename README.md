@@ -1,9 +1,9 @@
 # JavaScript
+
 curso feito na plataforma da origamid
 
 <h1>Projeto do Curso</h1>
 https://origamid.github.io/animais-fantasticos/
-
 
 <h1>Resumos</h1>
 <p>https://www.notion.so/Javascript-f981193b096747c8a6bd98dc514fa56f</p>
@@ -40,5 +40,4 @@ dia 28/04 - history api, async e await</br>
 dia 29/04 - class,extends,get/set</br>
 dia 30/04 - ..., arguments,clojures,debugging,rest,spread</br>
 dia 01/05 - regexp</br>
-
-
+dia 02/05 - npm,git,babel,eslint,webpack</br>
