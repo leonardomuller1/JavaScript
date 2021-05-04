@@ -41,3 +41,4 @@ dia 29/04 - class,extends,get/set</br>
 dia 30/04 - ..., arguments,clojures,debugging,rest,spread</br>
 dia 01/05 - regexp</br>
 dia 02/05 - npm,git,babel,eslint,webpack</br>
+dia 02/05 - refatorando umas partes do projeto.</br>
