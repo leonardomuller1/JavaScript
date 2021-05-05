@@ -2,9 +2,10 @@ export default class TabNav {
   constructor(menu, content) {
     this.tabMenu = document.querySelectorAll(menu);
     this.tabContent = document.querySelectorAll(content);
-    this.activeClass = "ativo"
+    this.activeClass = 'ativo';
   }
-  // ativa a tab de acordo com o index da mesma
+
+  // Ativa a tab de acordo com o index da mesma
   activeTab(index) {
     this.tabContent.forEach((section) => {
       section.classList.remove(this.activeClass);
@@ -22,10 +23,9 @@ export default class TabNav {
 
   init() {
     if (this.tabMenu.length && this.tabContent.length) {
-      // ativar primeira item
-      this.activeTab(0)
+      // ativar primeiro item
+      this.activeTab(0);
       this.addTabNavEvent();
     }
   }
 }
-

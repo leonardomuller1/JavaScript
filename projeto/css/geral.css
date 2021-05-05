@@ -214,7 +214,7 @@ body {
   }
 }
 
-[data-tab="content"] section {
+.js [data-tab="content"] section {
   display: none;
 }
 
@@ -252,7 +252,7 @@ body {
   }
 }
 
-[data-anime="accordion"] dd {
+.js [data-anime="accordion"] dd {
   display: none;
 }
 
