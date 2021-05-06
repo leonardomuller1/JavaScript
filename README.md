@@ -43,3 +43,4 @@ dia 01/05 - regexp</br>
 dia 02/05 - npm,git,babel,eslint,webpack</br>
 dia 03/05 - refatorando umas partes do projeto.</br>
 dia 04/05 - mais um dia refatorando partes do projeto.</br>
+dia 05/05 - fim do refatorado dos scripts.</br>
